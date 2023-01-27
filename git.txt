@@ -37,7 +37,12 @@ git checkout <nome da branch>
 
 * stash volta para o status anterior da branch. Se vc tiver feito alguma coisa vai ficar 
 o que vc fazer
-git stash
+git stash -m 'algum comentario' 
++ para listar as stahes 
+git stash list 
++ para voltar a stash 
+git stash apply {numero da stash da lista}
+
 
 
 * para fazer o merge vc tem que estar na branch padrão e informar a branch que vc quer trazer 
