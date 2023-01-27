@@ -39,3 +39,9 @@ git checkout <nome da branch>
 o que vc fazer
 git stash
 
+
+* para fazer o merge vc tem que estar na branch padrão e informar a branch que vc quer trazer 
+informações 
++ estando na main 
+git merge produto 
++ vc vai trazer as informações da branch de produto para a main 
