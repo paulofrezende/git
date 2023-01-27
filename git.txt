@@ -35,3 +35,7 @@ git checkout <nome da branch>
 
 * sempre a branch é criada a partir daquele que você está. Sempre crie uma branch a partir da main
 
+* stash volta para o status anterior da branch. Se vc tiver feito alguma coisa vai ficar 
+o que vc fazer
+git stash
+
