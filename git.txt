@@ -28,7 +28,7 @@ https://blog.betrybe.com/git/git-push/
 git branch 
 
 # para criar uma branch 
-git branch <nome da branch>
+git branch <nome da branch>   |  git branch -b <nome da branch> (alºem de criar já muda para a branch criada )
 
 # para mudar de branch 
 git checkout <nome da branch> 
