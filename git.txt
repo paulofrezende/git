@@ -1,0 +1,37 @@
+# depois de instalar o git, é preciso ir no github e criar as chaves ssh para poder fazer os push
+
+# Git init (para inicializar o git em uma pasta e começar o versionamento)
+
+# Git add (arquivo) ou . (Para adicionar tudo)
+
+# git commit (arquivo) ou sem nada para mandar tudo -m 'mensagem' 
+
+# git status: para saber o que deve subir ou não 
+
+# git push: para mandar as informações para o github
+
+# git branch -M main
+
+# git remote add origin git@github.com:paulofrezende/test.git
+
+# git push -u origin main
+
+#
+Para voltar para um commit específico, você pode usar o comando:
+
+git checkout <commit-hash>
+
+https://blog.betrybe.com/git/git-push/
+
+
+# para visualizar as branches: 
+git branch 
+
+# para criar uma branch 
+git branch <nome da branch>
+
+# para mudar de branch 
+git checkout <nome da branch> 
+
+* sempre a branch é criada a partir daquele que você está. Sempre crie uma branch a partir da main
+
