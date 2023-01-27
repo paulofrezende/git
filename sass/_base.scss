@@ -1,0 +1,30 @@
+$color_black: #0E1115; 
+$color_grey: #171B21; 
+$color_green: #438440; 
+$color_blue: #6BA4F8; 
+$color_white: #F2F6FA; 
+$color_titles: #CAD1D8; 
+$color_icons: #8C949D; 
+$color_border: #E8866D; 
+$color_tarja: #182338; 
+$color_line_tarja: #2F4C83; 
+
+*, 
+*::before, 
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body {
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: $color_titles; 
+}
