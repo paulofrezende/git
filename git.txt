@@ -50,3 +50,7 @@ informações
 + estando na main 
 git merge produto 
 + vc vai trazer as informações da branch de produto para a main 
+
+
+*tags para marcar uma tag (como release) do seu sistema 
+git tag -a {nome da tag} -m {message}
