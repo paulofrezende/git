@@ -53,4 +53,10 @@ git merge produto
 
 
 *tags para marcar uma tag (como release) do seu sistema 
-git tag -a {nome da tag} -m {message}
+git tag -a {versao da tag} -m {message}
++ para mostrar as tags 
+git tag 
++ para voltar uma tag 
+git checkout {versao da tag}
++ para mostrar o conteudo de uma tag 
+git show {versao da tag}
