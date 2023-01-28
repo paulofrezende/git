@@ -62,3 +62,5 @@ git checkout {versao da tag}
 git show {versao da tag}
 + para saber a tag current 
 git describe --tags
++ para enviar uma tag especifica 
+git push origin v1.0
