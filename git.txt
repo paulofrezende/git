@@ -60,3 +60,5 @@ git tag
 git checkout {versao da tag}
 + para mostrar o conteudo de uma tag 
 git show {versao da tag}
++ para saber a tag current 
+git describe --tags
