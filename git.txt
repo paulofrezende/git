@@ -70,3 +70,8 @@ git push origin --tags
 
 * para fazer um push em uma branch especifica 
     git push --set-upstream origin cadastro
+
+
+* para buscar as novas branchs que estão no git 
+git fetch -a 
+
