@@ -81,3 +81,16 @@ git checkout -b "nome da branch"
 * para melhorar a performance do git pode rodar o garbage collector 
 git gc
 
+* para mostrar os commits pelos usuarios 
+git shortlog
+
+* para mostrar as diferencas entre os arquivos 
+git diff 
++ para ver a diferenca de um arquivo especifico 
+git diff HEAD: {nome do arquivo}
+
+
+* para ver o log das operações que eu fiz 
+git reflog
+
+
