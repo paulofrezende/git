@@ -75,3 +75,6 @@ git push origin --tags
 * para buscar as novas branchs que estão no git 
 git fetch -a 
 
+* para buscar as informações que estão no github 
++ certiquese que está na branch que vc deseja (pois o git vai buscar as informações dessa branch)
+git pull
