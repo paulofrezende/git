@@ -66,3 +66,7 @@ git describe --tags
 git push origin v1.0
 + para enviar todas as tags 
 git push origin --tags
+
+
+* para fazer um push em uma branch especifica 
+    git push --set-upstream origin cadastro
