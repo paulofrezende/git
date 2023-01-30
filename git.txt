@@ -75,3 +75,5 @@ git push origin --tags
 * para buscar as novas branchs que estão no git 
 git fetch -a 
 
+* para criar uma branch e já mudar para ela: 
+git checkout -b "nome da branch"
