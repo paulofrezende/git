@@ -94,3 +94,6 @@ git diff HEAD: {nome do arquivo}
 git reflog
 
 
+* vc pode usar o pull request diretamente do git hub para fazer comentários, submeter comentários 
+* e aprovar um merge de uma branch especifica com a main. 
+
